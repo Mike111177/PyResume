@@ -1,0 +1,148 @@
+---
+name: Example Man
+title: Role Model and Leader
+
+contact:
+  - name: Phone
+    handle: "(555) 555-5555"
+    url: tel:555-555-5555
+  - name: Email
+    handle: example@example.com
+    url: mailto:example@example.com
+  - name: LinkedIn
+    handle: examplemanresume
+    url: https://www.linkedin.com/in/examplemanresume
+
+education:
+  - name: Higher Education of Examples University
+    location: Example Beach, OH
+    subjects:
+    - date: May, 2020 # Must be parsable date
+      degree: M.S. #(Optional) Ex. M.S., B.S.
+      major: Role Modeling 
+    - date: May, 2018 # Must be parsable date
+      degree: B.S. #(Optional) Ex. M.S., B.S.
+      major: Example Technology
+      concentration: Future Exampling #(Optional)
+      minors:
+        - Example Workflow Systems
+        - Industrial Examples
+  - name: Examples Vocational Highschool
+    location: Example Beach, OH
+    subjects:
+      - date: June, 2013
+        major: Information Technology
+
+#(Optional) Intended for large ideas breifly describing your goals, interest, and skills
+interests:
+  - name: Exampling
+    skills:
+    - Example Development
+    - Being an Example
+    - Future Example Systems
+    - Example Diagnostics
+  - name: Role Modeling
+    skills:
+    - Role Model Simulation
+    - Computer Aided Role Modeling
+    - Role Modeling Mathematics
+    - Role Fabrication
+  - name: Running Out of Ideas
+    skills:
+    - 50 Hours of coming up with an example
+    - Idea Supervising
+    - Custom Ideas, Tools, and Equipment
+    - Idea Systems
+
+skills:
+  - name: Exampling
+    skills:
+    - Autodesk Exampler
+    - Example Engine 2
+    - SimuExample
+  - name: Productivity
+    skills:
+    - Word
+    - PowerPoint
+    - Excel
+    - Access
+    - LaTeX
+  - name: Role Modeling
+    skills:
+    - C
+    - C++
+    - Python
+    - JavaScript
+    - MATLAB
+    - Java
+    - OpenCL
+    - Maple
+    - CMAKE
+
+#Experience will be sorted by start data in reverse chronological order
+experience:
+  - title: Example Consultant
+    type: Self-Employed
+    start: January, 2011
+    end: Present
+    tasks:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam erat, vestibulum
+    - at diam vel, ultricies tincidunt turpis. Mauris fermentum turpis eget magna imperdiet
+    - bibendum. Mauris ligula lorem, aliquet eu dictum at, imperdiet eget dui. Duis
+    - in justo quis metus fringilla elementum. Sed elementum risus at lacus fringilla 
+
+  - employer: Example Solutions LLC
+    title: Example Assistant
+    type: Part-Time
+    start: July, 2014
+    end: August, 2016
+    tasks:
+    - volutpat. In lobortis risus in leo iaculis, a sagittis purus hendrerit. Nam eu nulla 
+    - nulla. Duis hendrerit lacus at massa dapibus, a ultrices erat vehicula. Etiam 
+    - turpis quis dolor dignissim condimentum. Duis arcu dolor, tincidunt 
+      vitae nisi vitae
+  
+  - employer: Example Services LLC
+    type: Contract
+    title: Example Developer
+    start: June, 2019
+    end: Present
+    #Position specific projects can be used in lieu of a tasks list in your Resume
+    projects:
+    - name: Example Splitter
+      skills: #You can also add skills required to accomplish a project.
+      - Exampling
+      brief: Aenean auctor, diam in scelerisque cursus, ante dui posuere est, in sodales 
+    - name: Metadata Corrector
+      brief: metus elit sit amet justo , non consequat felis ligula nec enim. Proin gravida sapi
+    - name: QGC Waypoint Fixer
+      brief: non consequat felis ligula nec enim. Proin gravida sapien a arcu lacinia rhoncus
+    - name: plan2kml
+      brief: eu feugiat lorem bibendum et. Maecenas eleifend sem at sem pellentesque lacinia
+    - name: ESC Alyzer
+      skills:
+      - Python
+      brief: Quisque vitae nisl sapien. Praesent mollis aliquet dui, eu feugiat lorem bibendum et.
+
+projects:
+  - name: Example Project 1
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam erat, 
+      vestibulum at diam vel, ultricies tincidunt turpis. Mauris fermentum turpis eget magna
+      imperdiet bibendum. Mauris ligula lorem, aliquet eu dictum at, imperdiet eget dui. 
+      Duis in justo quis metus fringilla elementum. Sed elementum risus at lacus fringilla 
+      volutpat. In lobortis risus in leo iaculis, a sagittis purus hendrerit. Nam eu nulla 
+      nulla. Duis hendrerit lacus at massa dapibus, a ultrices erat vehicula. Etiam 
+      condimentum turpis quis dolor dignissim condimentum. Duis arcu dolor, tincidunt 
+      vitae nisi vitae, congue facilisis quam. Aenean interdum commodo consectetur. 
+      Nulla bibendum eros at condimentum vestibulum. Nullam vel feugiat risus. Integer 
+      lobortis, massa et consectetur convallis, justo felis pretium orci, vitae malesuada 
+      tellus ligula nec odio.
+  - name: Example Project 2
+    description: Aenean auctor, diam in scelerisque cursus, ante dui posuere est, in sodales 
+      metus elit sit amet justo. Sed accumsan orci arcu, vel hendrerit lacus sodales sed. 
+      Integer vel nisl sed velit dictum accumsan at elementum elit. Duis vestibulum lorem ipsum, 
+      laoreet mollis velit pulvinar sit amet. Cras sit amet sodales metus. Proin tincidunt risus 
+      vitae diam imperdiet, quis ultrices nisl ultrices. In finibus, diam vitae mollis dignissim, 
+      nisi purus lobortis nibh, non consequat felis ligula nec enim. Proin gravida sapien a arcu 
+      lacinia rhoncus. Donec pellentesque tempor vehicula. Quisque vitae nisl sapien. Praesent 
+      mollis aliquet dui, eu feugiat lorem bibendum et. Maecenas eleifend sem at sem pellentesque lacinia.

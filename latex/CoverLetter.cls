@@ -1,0 +1,2 @@
+\ProvidesClass{CoverLetter}
+\LoadClass{CommonJobDoc}

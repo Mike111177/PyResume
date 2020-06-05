@@ -1,0 +1,5 @@
+*.pdf
+*.sublime-workspace
+*.yml
+data
+__pycache__

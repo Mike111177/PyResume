@@ -1,0 +1,2 @@
+\ProvidesClass{Portfolio}
+\LoadClass{CommonJobDoc}
